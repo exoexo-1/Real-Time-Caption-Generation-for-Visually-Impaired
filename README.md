@@ -81,6 +81,8 @@ jupyter notebook visual_echo.ipynb
 
 ## 🎬 Check out the video attachment where one of our team members demonstrates the project in action.
 
+https://github.com/user-attachments/assets/d7284541-c004-4ac5-a802-44beb8fa099d
+
 
 ## 🙏 Acknowledgements
 
