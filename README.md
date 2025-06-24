@@ -1,7 +1,7 @@
 
 ### 📘 `README.md`
 
-```markdown
+
 # Real-Time Caption Generation for Visually Impaired
 
 A Python-based AI vision assistant designed to help visually impaired individuals perceive and understand their surroundings through real-time audio descriptions. The system leverages cutting-edge models like BLIP, CLIP, and EasyOCR to convert visual data into speech using natural language understanding and computer vision.
@@ -26,7 +26,7 @@ A Python-based AI vision assistant designed to help visually impaired individual
    - EasyOCR → Text Detection
 4. **Output** – Delivered as spoken audio using pyttsx3.
 5. **Multithreaded** – Handles camera, speech synthesis, and recognition concurrently.
-```
+
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
@@ -70,6 +70,7 @@ jupyter notebook visual_echo.ipynb
 - Optional: GPU for faster inference (recommended for BLIP)
 
 
+
 ## 🚀 Future Enhancements
 
 - 🔲 Bounding box support for object localization.
@@ -77,6 +78,9 @@ jupyter notebook visual_echo.ipynb
 - 📱 Mobile and edge deployment (Jetson Nano / Raspberry Pi).
 - 🔁 Personalized user profiles and interaction history.
 - 🧠 Integration with LLaVA for richer multimodal interaction.
+
+## 🎬 Check out the video attachment where one of our team members demonstrates the project in action.
+
 
 ## 🙏 Acknowledgements
 
